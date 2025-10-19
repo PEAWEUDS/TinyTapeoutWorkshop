@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A 8 segment display that is controlled by 8 total switches that go through 4 AND gates. Out of those 4 AND gates, The top 2 and bottom 2 AND gates are attached to a OR gate that each controls 4 segments of the display.
 
 ## How to test
 
-Explain how to use your project
+Its an AND and OR basic system. 
 
 ## External hardware
 
